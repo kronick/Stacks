@@ -1,4 +1,5 @@
 
+*.swp
 screenshots/
 animation/
 .DS_Store
